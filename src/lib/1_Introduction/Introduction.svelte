@@ -11,12 +11,16 @@
         alt: 'Dynamic Learning Logo',
         courseName: '<u>Svelte(Basic)</u>'
     }
+
+    const {src, alt, courseName} = data;
+
 </script>
 
 <h1>Hello everyone!</h1>
 
-<img src={data?.src} alt="image: {data?.alt}" />
-<h3>Course Name: {@html data?.courseName}</h3>
+<img {src} alt="image: {alt}" />
+<h3>Course Name: {@html courseName}</h3>
+
 
 <style>
     h1{
