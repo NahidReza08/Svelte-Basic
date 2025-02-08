@@ -1,0 +1,7 @@
+Topics we will cover:
+
+(1) Introduction:
+    (1.1) Structure
+    (1.2) Dynamic attributes
+    (1.3) Nested components
+    (1.4) HTML tags
