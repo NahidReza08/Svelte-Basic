@@ -1,11 +1,5 @@
 <script>
-  import Effects from './lib/2_Reactivity/Effects.svelte';
-
-
+  import Main from './lib/2_Reactivity/Universal Reactivity/Main.svelte';
 </script>
 
-<!-- Example of nested component. Loops not allowed. -->
-
-<!-- <Introduction /> -->
-<!-- <State /> -->
-<Effects />
+<Main />
