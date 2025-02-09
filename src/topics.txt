@@ -10,3 +10,7 @@ Topics we will cover:
     (2.1) State, Deep state, Inspecting state
     (2.2) Derived state, Effects
     (2.3) Universal reactivity
+
+(3) Props
+    (3.1) Declaring props, Default values, Spread props
+   
