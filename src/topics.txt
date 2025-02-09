@@ -8,8 +8,5 @@ Topics we will cover:
 
 (2) Reactivity
     (2.1) State, Deep state, Inspecting state
-    (2.2) Deep state
-    (2.3) Derived state
-    (2.4) Inspecting state
-    (2.5) Effects
-    (2.6) Universal reactivity
+    (2.2) Derived state, Effects
+    (2.3) Universal reactivity
