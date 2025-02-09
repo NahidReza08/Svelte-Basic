@@ -1,6 +1,5 @@
 <script>
-    export let course = 'Not found';
-    export let instructor = 'Not found';
+    let {course = 'Not found', instructor = 'Not found'} = $props();
 </script>
 
 <p>
