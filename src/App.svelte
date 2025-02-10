@@ -1,5 +1,5 @@
 <script>
-  import Main from './lib/4_Logic/Each/Main.svelte';
+  import Await from './lib/4_Logic/Await.svelte';
 </script>
 
-<Main />
+<Await />
