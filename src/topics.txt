@@ -13,4 +13,10 @@ Topics we will cover:
 
 (3) Props
     (3.1) Declaring props, Default values, Spread props
+
+(4) Logic
+    (4.1) If, Else, Else-if blocks
+    (4.2) Each blocks, Keyed each blocks
+    (4.1) Await blocks
+
    

@@ -1,5 +1,5 @@
 <script>
-  import Main from './lib/3_Props/Main.svelte';
+  import If_Else from './lib/4_Logic/If_Else.svelte';
 </script>
 
-<Main />
+<If_Else />
