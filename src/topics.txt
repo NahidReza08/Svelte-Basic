@@ -19,4 +19,7 @@ Topics we will cover:
     (4.2) Each blocks, Keyed each blocks
     (4.1) Await blocks
 
+(5) Events
+    (5.1) DOM events, Inline handlers, Component events, Spreading events
+    (5.2) Capturing
    

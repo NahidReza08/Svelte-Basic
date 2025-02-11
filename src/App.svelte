@@ -1,5 +1,5 @@
 <script>
-  import Await from './lib/4_Logic/Await.svelte';
+  import Events from './lib/5_Events/Events.svelte';
 </script>
 
-<Await />
+<Events />
